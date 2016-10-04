@@ -1,6 +1,6 @@
 ## Exercise 1: Selecting Elements, Setting Attributes
 
-This is a short exercise to demonstrate how you can use jQuery select elements in the DOM and set their styles and attributes. Start by forking and cloning this repository. Then, edit the `js/main.js` to complete the outlined steps. Make sure to use the element inspector to see your progress.
+This is a short exercise to demonstrate how you can use jQuery to select elements in the DOM and set their styles and attributes. Start by forking and cloning this repository, and running a local web server. Then, edit the `js/main.js` to complete the steps outlined in your `index.html` file.
 
 You may find the following resources helpful:
 
